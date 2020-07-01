@@ -1,1 +1,1 @@
-web: gunicord dental.wsgi
+web: gunicorn dental.wsgi
