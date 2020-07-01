@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"Rectangle"
+			],
+			[
+				"f",
+				"foo1"
+			],
+			[
+				"ger",
+				"genexpresion"
+			],
+			[
+				"pri",
+				"print_vector"
+			],
+			[
+				"pr",
+				"print_vector"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"wh",
+				"whisper"
+			],
+			[
+				"gre",
+				"greeting"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"is",
+				"is_prime"
+			],
+			[
+				"the",
+				"the_list"
+			],
+			[
+				"djan",
+				"django_heroku"
+			],
+			[
+				"WHI",
+				"whitenoise"
+			],
+			[
+				"stat",
+				"staticfiles"
+			],
+			[
+				"head",
+				"headshot"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"STA",
+				"staticfiles"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"r",
+				"requests"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mustafewayel/Downloads/original (2).py",
+		"/Users/mustafewayel/PycharmProjects/HelloWorld/helloworld.py",
+		"/Users/mustafewayel/Downloads/original.py",
+		"/Users/mustafewayel/Desktop/head_first_python/beersong.py",
+		"/Users/mustafewayel/Desktop/Python tricks/oo.py",
+		"/Users/mustafewayel/Desktop/Python tricks/return.py",
+		"/Users/mustafewayel/Desktop/Python tricks/cloning_objects.py",
+		"/Users/mustafewayel/Desktop/Python tricks/msn.py",
+		"/Users/mustafewayel/Desktop/Python tricks/cloning_objects",
+		"/Users/mustafewayel/Desktop/Python tricks/decorators.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module5/tes.py",
+		"/Users/mustafewayel/Desktop/Python-verything/CIRO.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module5/practice.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module5/m05_01_functions.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Lab/lab2.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module2/m02_04_charges_for_loop_from_file.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module2/m02_03_charges_list_for_loop.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module2/m02_02_charges_list.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module1/m01_01_basic.py",
+		"/Users/mustafewayel/Desktop/Python-verything/Module2/m02_01_charges_multiple_hardcoded.py",
+		"/Users/mustafewayel/Desktop/head_first_python/panic.py",
+		"/Users/mustafewayel/Documents/database.sql",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/static/images/headshot.jpg",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/resumesite/templates/index.html",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/static/css/style.css",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/resumesite/templates/home.html",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/resumesite/views.py",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/djangoresume/settings.py",
+		"/Users/mustafewayel/Desktop/headshot.jpg",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/resumesite/templetes/home.html",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/resumesite/urls.py",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/djangoresume/urls.py",
+		"/Users/mustafewayel/Desktop/djangoresume/djangoresume/resumesite/templetes/index.html",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weatherlookup/templates/about.html",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weatherlookup/templates/base.html",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weatherlookup/views.py",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weatherlookup/templates/home.html",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weatherlookup/urls.py",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weather/urls.py",
+		"/Users/mustafewayel/Desktop/djangoweather/weather/weather/settings.py",
+		"/Users/mustafewayel/Desktop/head_first_python/webapp/test.py",
+		"/Users/mustafewayel/preamble.py",
+		"/Users/mustafewayel/Library/Application Support/Sublime Text 3/Packages/User/python3.7.sublime-build",
+		"/Users/mustafewayel/Desktop/hello.py",
+		"/Users/mustafewayel/Desktop/print(\"hello world\")",
+		"/Users/mustafewayel/Preamble.py",
+		"/Users/mustafewayel/Desktop/Head_First_Python/hello_flask.py",
+		"/Users/mustafewayel/Documents/Python/paramikoo",
+		"/Users/mustafewayel/Documents/Python/hello.py",
+		"/Users/mustafewayel/Desktop/Datebase.py",
+		"/Users/mustafewayel/Desktop/mus.py",
+		"/Users/mustafewayel/Desktop/video.html",
+		"/Users/mustafewayel/Documents/Python/untitled",
+		"/hello.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 286.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.7.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"head",
+				"~/Desktop/djangoresume/djangoresume/static/images/headshot.jpg"
+			],
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/python3.7.sublime-build"
+			],
+			[
+				"p",
+				"~/Documents/Python/hello.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
