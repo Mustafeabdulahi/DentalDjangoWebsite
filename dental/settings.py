@@ -143,3 +143,5 @@ EMAIL_HOST_USER = ""
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = False
 
+
+STATICFILES_STORAGE = 'Whitenoise.storage.CompressedManifestStaticFilesStorage'
